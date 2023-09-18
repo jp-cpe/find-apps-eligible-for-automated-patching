@@ -15,19 +15,11 @@ Patching for 3rd-party software can be automated using [Jamf App Installers](htt
 ```
 Applications in your mac environment that can have patching automated by Jamf App Installers:
 Adobe After Effects 2023
-Adobe Animate 2023
-Adobe Audition 2023
-Adobe Bridge 2023
 Adobe Bridge 2024
-Adobe XD
-Citrix Workspace
 Dropbox
-Evernote
-GitHub Desktop
 Google Chrome
 Microsoft Edge
 Microsoft Teams
-Notion
 Nudge
 Postman
 Sketch
@@ -35,16 +27,10 @@ Slack
 
 
 Applications in your mac environment that can have patching automated by the Installomator script:
-Bbedit
-Charles
 Cyberduck
 Dropbox
-Evernote
 Figma
-Github Desktop
 Google Chrome
-Microsoft Autoupdate
-Microsoft Defender
 Microsoft Edge
 Microsoft Excel
 Microsoft Onenote
@@ -53,21 +39,13 @@ Microsoft Powerpoint
 Microsoft Remote Desktop
 Microsoft Teams
 Microsoft Word
-Miro
-Notion
 Nudge
-Obs
 Onedrive
 Postman
 Sketch
 Slack
-Snagit 2023
-Spotify
 Sublime Text
 Visual Studio Code
-Wireshark
-Zeplin
-Zoom.Us
 
 Applications in your mac environment that can have patching automated by either Jamf App Installers or the Installomator script:
 Dropbox
