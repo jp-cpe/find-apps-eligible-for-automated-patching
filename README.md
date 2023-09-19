@@ -53,7 +53,6 @@ Google Chrome
 Microsoft Defender
 Microsoft Edge
 Microsoft Teams
-Notion
 Nudge
 Postman
 Sketch
