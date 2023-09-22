@@ -61,4 +61,5 @@ Slack
 
 ## Notes
 - Some of the software titles listed on the Jamf App Installers FAQ page have names that are different than the actual title that gets returned from the Jamf API, this causes them to not appear in the final list returned by the script (**Ex. Microsoft Outlook is listed as "Microsoft Outlook 365" on the FAQ page but listed as just "Microsoft Outlook" in Jamf**).
-- Just because patching for an application _can_ be automated does not always mean that it _should_ be automated. Always make sure that the patching process for applications in your environment is in line with the desired user experience, change management protocols, and security recommendations. 
+- Just because patching for an application _can_ be automated does not always mean that it _should_ be automated. Always make sure that the patching process for applications in your environment is in line with the desired user experience, change management protocols, and security recommendations.
+- API Role required for this script to work: *Read - Advanced Computer Searches*
